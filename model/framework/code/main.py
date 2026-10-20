@@ -2,6 +2,8 @@
 import os
 import sys
 
+import pin_blas  # noqa: F401  keep first: must run before numpy loads
+
 from ersilia_pack_utils.core import read_smiles, write_out
 
 from predict import TOP, neighbours
