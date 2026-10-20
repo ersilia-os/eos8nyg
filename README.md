@@ -2,6 +2,7 @@
 
 Retrieves the 100 nearest neighbours of a query molecule in the Ersilia Reference Library, a set of 1.36 million compounds maintained by Ersilia. Three learned embeddings are searched independently, namely CLAMP for bioactivity, SAND for 3D shape and Mol-JEPA for predicted biological context, and their rankings are fused into one list. Ersilia built the search with LazySim, which indexes each embedding with turbovec 4-bit quantization.
 
+This model was incorporated on 2026-10-19.
 
 
 ## Information
