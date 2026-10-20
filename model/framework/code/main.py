@@ -2,7 +2,7 @@
 import os
 import sys
 
-import pin_blas  # noqa: F401  keep first: must run before numpy loads
+import pin_kernels  # noqa: F401  keep first: must run before numpy or turbovec load
 
 from ersilia_pack_utils.core import read_smiles, write_out
 
