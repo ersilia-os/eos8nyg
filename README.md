@@ -28,16 +28,16 @@ This model was incorporated on 2026-10-19.Last packaged on 2026-10-20.
 Below are the **Output Columns** of the model:
 | Name | Type | Direction | Description |
 |------|------|-----------|-------------|
-| smi_00 | string |  | Library compound ranked 0 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_01 | string |  | Library compound ranked 1 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_02 | string |  | Library compound ranked 2 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_03 | string |  | Library compound ranked 3 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_04 | string |  | Library compound ranked 4 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_05 | string |  | Library compound ranked 5 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_06 | string |  | Library compound ranked 6 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_07 | string |  | Library compound ranked 7 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_08 | string |  | Library compound ranked 8 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
-| smi_09 | string |  | Library compound ranked 9 by reciprocal rank fusion of the CLAMP SAND and Mol-JEPA searches |
+| smi_00 | string |  | Library compound ranked 0 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_01 | string |  | Library compound ranked 1 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_02 | string |  | Library compound ranked 2 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_03 | string |  | Library compound ranked 3 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_04 | string |  | Library compound ranked 4 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_05 | string |  | Library compound ranked 5 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_06 | string |  | Library compound ranked 6 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_07 | string |  | Library compound ranked 7 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_08 | string |  | Library compound ranked 8 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
+| smi_09 | string |  | Library compound ranked 9 by reciprocal rank fusion of the CLAMP, SAND and Mol-JEPA searches |
 
 _10 of 100 columns are shown_
 ### Source and Deployment
