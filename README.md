@@ -2,7 +2,7 @@
 
 Retrieves the 100 nearest neighbours of a query molecule in the Ersilia Reference Library, a set of 1.36 million compounds maintained by Ersilia. Three learned embeddings are searched independently, namely CLAMP for bioactivity, SAND for 3D shape and Mol-JEPA for predicted biological context, and their rankings are fused into one list. Ersilia built the search with LazySim, which indexes each embedding with turbovec 4-bit quantization.
 
-This model was incorporated on 2026-10-19.Last packaged on 2026-10-20.
+This model was incorporated on 2026-10-19.Last packaged on 2026-10-27.
 
 ## Information
 ### Identifiers
@@ -50,12 +50,12 @@ _10 of 100 columns are shown_
 ### Resource Consumption
 - **Model Size (Mb):** `1731`
 - **Environment Size (Mb):** `587`
-- **Image Size (Mb):** `4000.91`
+- **Image Size (Mb):** `4000.93`
 
 **Computational Performance (seconds):**
-- 10 inputs: `29.85`
-- 100 inputs: `27.34`
-- 10000 inputs: `542.83`
+- 10 inputs: `29.95`
+- 100 inputs: `26.54`
+- 10000 inputs: `509.93`
 
 ### References
 - **Source Code**: [https://github.com/ersilia-os/lazy-sim](https://github.com/ersilia-os/lazy-sim)
